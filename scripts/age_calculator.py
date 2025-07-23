@@ -51,7 +51,7 @@ def generate_age_display(age_data, name="Developer"):
 def main():
     """Main function"""
     # Get birth date from environment variable or use default
-    birth_date = os.getenv('BIRTH_DATE', '1995-01-01')  # Default birth date
+    birth_date = os.getenv('BIRTH_DATE', '2000-04-19')  # Default birth date
     name = os.getenv('PROFILE_NAME', 'Developer')
     
     # Calculate age
