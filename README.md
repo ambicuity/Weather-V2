@@ -12,7 +12,7 @@
 <!-- QUOTES-START -->
 ## 💭 Daily Quote
 
-"Talk is cheap. Show me the code." - Linus Torvalds
+"Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 <!-- QUOTES-END -->
 
@@ -20,17 +20,24 @@
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-20-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-21-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2025-07-23 20:11:23 UTC*
+*Last updated: 2025-07-23 20:13:05 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
 <!-- AGE-START -->
-## 🎂 Age
+## 🎂 About Me
 
-Age calculation unavailable
+<p align="center">
+    <img src="https://img.shields.io/badge/Age-25%20years%203%20months%204%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+</p>
+
+**🌟 I'm 25 years old and have been alive for 9,226 days!**
+
+*Age updates automatically every day*
+
 <!-- AGE-END -->
 
 <!-- TYPING-ANIMATION-START -->
@@ -68,7 +75,7 @@ Age calculation unavailable
 - 🟢 **Two Sum** - Easy (2024-01-15)
 - 🟡 **Add Two Numbers** - Medium (2024-01-14)
 
-*Last updated: 2025-07-23 20:11:23 UTC*
+*Last updated: 2025-07-23 20:13:05 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -95,7 +102,7 @@ Age calculation unavailable
     <td>24.4°C</td>
     <td>Partly cloudy</td>
     <td>56%</td>
-    <td>8.3 km/h</td>
+    <td>9.4 km/h</td>
 </tr>
 <tr>
     <td>London</td>
@@ -133,5 +140,5 @@ Age calculation unavailable
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2025-07-23 20:11:24 UTC</i>
+    <i>Last updated: 2025-07-23 20:13:06 UTC</i>
 </p>
