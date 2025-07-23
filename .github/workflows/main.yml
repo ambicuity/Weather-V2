@@ -30,7 +30,7 @@ jobs:
       - name: Set environment variables
         run: |
           echo "WEATHER_API_KEY=${{ secrets.WEATHER_API_KEY || 'b3c68b2c9eb541e0836135303242011' }}" >> $GITHUB_ENV
-          echo "BIRTH_DATE=${{ secrets.BIRTH_DATE || '2000-19-04' }}" >> $GITHUB_ENV
+          echo "BIRTH_DATE=${{ secrets.BIRTH_DATE || '2000-04-19' }}" >> $GITHUB_ENV
           echo "PROFILE_NAME=${{ secrets.PROFILE_NAME || 'Developer' }}" >> $GITHUB_ENV
           echo "PROFILE_TITLE=${{ secrets.PROFILE_TITLE || 'Full Stack Developer' }}" >> $GITHUB_ENV
           echo "PROFILE_STATUS=${{ secrets.PROFILE_STATUS || 'Building Amazing Things' }}" >> $GITHUB_ENV
