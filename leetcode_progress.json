@@ -1,11 +1,11 @@
 {
-  "total_solved": 152,
+  "total_solved": 153,
   "easy_solved": 81,
   "medium_solved": 55,
-  "hard_solved": 16,
-  "current_streak": 7,
+  "hard_solved": 17,
+  "current_streak": 8,
   "max_streak": 23,
-  "last_solved": "2025-07-24",
+  "last_solved": "2025-07-25",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Greedy Algorithm",
+      "difficulty": "Hard",
+      "date": "2025-07-25"
+    },
     {
       "name": "Merge Sort",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Add Two Numbers",
       "difficulty": "Medium",
       "date": "2024-01-14"
-    },
-    {
-      "name": "Longest Substring",
-      "difficulty": "Medium",
-      "date": "2024-01-13"
     }
   ]
 }
