@@ -2,7 +2,7 @@ name: Dynamic Profile README Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     # Allow manual triggering
 
