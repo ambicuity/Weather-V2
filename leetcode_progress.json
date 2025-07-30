@@ -1,11 +1,11 @@
 {
-  "total_solved": 155,
+  "total_solved": 156,
   "easy_solved": 81,
-  "medium_solved": 57,
+  "medium_solved": 58,
   "hard_solved": 17,
-  "current_streak": 10,
+  "current_streak": 11,
   "max_streak": 23,
-  "last_solved": "2025-07-29",
+  "last_solved": "2025-07-30",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Sliding Window",
+      "difficulty": "Medium",
+      "date": "2025-07-30"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Merge Sort",
       "difficulty": "Hard",
       "date": "2025-07-24"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Easy",
-      "date": "2025-07-23"
     }
   ]
 }
