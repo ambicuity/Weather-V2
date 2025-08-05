@@ -1,11 +1,11 @@
 {
-  "total_solved": 159,
+  "total_solved": 160,
   "easy_solved": 82,
-  "medium_solved": 58,
+  "medium_solved": 59,
   "hard_solved": 19,
-  "current_streak": 14,
+  "current_streak": 15,
   "max_streak": 23,
-  "last_solved": "2025-08-04",
+  "last_solved": "2025-08-05",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Medium",
+      "date": "2025-08-05"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Medium",
       "date": "2025-07-30"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Medium",
-      "date": "2025-07-28"
     }
   ]
 }
