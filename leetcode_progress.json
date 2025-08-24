@@ -1,11 +1,11 @@
 {
-  "total_solved": 171,
+  "total_solved": 172,
   "easy_solved": 85,
   "medium_solved": 65,
-  "hard_solved": 21,
-  "current_streak": 1,
+  "hard_solved": 22,
+  "current_streak": 2,
   "max_streak": 23,
-  "last_solved": "2025-08-23",
+  "last_solved": "2025-08-24",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Sliding Window",
+      "difficulty": "Hard",
+      "date": "2025-08-24"
+    },
     {
       "name": "Binary Search",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Medium",
       "date": "2025-08-17"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Hard",
-      "date": "2025-08-16"
     }
   ]
 }
