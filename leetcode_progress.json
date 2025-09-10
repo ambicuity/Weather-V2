@@ -1,11 +1,11 @@
 {
-  "total_solved": 181,
+  "total_solved": 182,
   "easy_solved": 86,
-  "medium_solved": 69,
+  "medium_solved": 70,
   "hard_solved": 26,
-  "current_streak": 7,
+  "current_streak": 8,
   "max_streak": 23,
-  "last_solved": "2025-09-09",
+  "last_solved": "2025-09-10",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Kadane's Algorithm",
+      "difficulty": "Medium",
+      "date": "2025-09-10"
+    },
     {
       "name": "Sliding Window",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Medium",
       "date": "2025-09-06"
-    },
-    {
-      "name": "Backtracking",
-      "difficulty": "Medium",
-      "date": "2025-09-05"
     }
   ]
 }
