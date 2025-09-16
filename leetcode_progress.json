@@ -1,11 +1,11 @@
 {
-  "total_solved": 184,
+  "total_solved": 185,
   "easy_solved": 86,
-  "medium_solved": 70,
+  "medium_solved": 71,
   "hard_solved": 28,
-  "current_streak": 2,
+  "current_streak": 3,
   "max_streak": 23,
-  "last_solved": "2025-09-15",
+  "last_solved": "2025-09-16",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2025-09-16"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Hard",
       "date": "2025-09-09"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Medium",
-      "date": "2025-09-08"
     }
   ]
 }
