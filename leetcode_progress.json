@@ -1,11 +1,11 @@
 {
-  "total_solved": 186,
+  "total_solved": 187,
   "easy_solved": 86,
   "medium_solved": 71,
-  "hard_solved": 29,
-  "current_streak": 4,
+  "hard_solved": 30,
+  "current_streak": 5,
   "max_streak": 23,
-  "last_solved": "2025-09-20",
+  "last_solved": "2025-09-21",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Two Pointers",
+      "difficulty": "Hard",
+      "date": "2025-09-21"
+    },
     {
       "name": "Merge Sort",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Merge Sort",
       "difficulty": "Hard",
       "date": "2025-09-14"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Medium",
-      "date": "2025-09-10"
     }
   ]
 }
