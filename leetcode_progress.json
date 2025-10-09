@@ -1,11 +1,11 @@
 {
-  "total_solved": 198,
+  "total_solved": 199,
   "easy_solved": 91,
   "medium_solved": 75,
-  "hard_solved": 32,
-  "current_streak": 0,
+  "hard_solved": 33,
+  "current_streak": 1,
   "max_streak": 23,
-  "last_solved": "2025-10-08",
+  "last_solved": "2025-10-09",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Hard",
+      "date": "2025-10-09"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Easy",
       "date": "2025-10-02"
-    },
-    {
-      "name": "Two Pointers",
-      "difficulty": "Hard",
-      "date": "2025-10-01"
     }
   ]
 }
