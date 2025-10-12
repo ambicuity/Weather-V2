@@ -1,11 +1,11 @@
 {
-  "total_solved": 201,
+  "total_solved": 202,
   "easy_solved": 92,
-  "medium_solved": 76,
+  "medium_solved": 77,
   "hard_solved": 33,
-  "current_streak": 3,
+  "current_streak": 4,
   "max_streak": 23,
-  "last_solved": "2025-10-11",
+  "last_solved": "2025-10-12",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2025-10-12"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Easy",
       "date": "2025-10-06"
-    },
-    {
-      "name": "Binary Search",
-      "difficulty": "Hard",
-      "date": "2025-10-05"
     }
   ]
 }
