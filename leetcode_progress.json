@@ -1,11 +1,11 @@
 {
-  "total_solved": 205,
+  "total_solved": 206,
   "easy_solved": 94,
   "medium_solved": 77,
-  "hard_solved": 34,
-  "current_streak": 3,
+  "hard_solved": 35,
+  "current_streak": 4,
   "max_streak": 23,
-  "last_solved": "2025-10-17",
+  "last_solved": "2025-10-18",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Hard",
+      "date": "2025-10-18"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Backtracking",
       "difficulty": "Medium",
       "date": "2025-10-12"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Easy",
-      "date": "2025-10-11"
     }
   ]
 }
