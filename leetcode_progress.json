@@ -1,11 +1,11 @@
 {
-  "total_solved": 206,
+  "total_solved": 207,
   "easy_solved": 94,
   "medium_solved": 77,
-  "hard_solved": 35,
-  "current_streak": 4,
+  "hard_solved": 36,
+  "current_streak": 5,
   "max_streak": 23,
-  "last_solved": "2025-10-18",
+  "last_solved": "2025-10-19",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Quick Sort",
+      "difficulty": "Hard",
+      "date": "2025-10-19"
+    },
     {
       "name": "Dynamic Programming",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Quick Sort",
       "difficulty": "Hard",
       "date": "2025-10-14"
-    },
-    {
-      "name": "Backtracking",
-      "difficulty": "Medium",
-      "date": "2025-10-12"
     }
   ]
 }
