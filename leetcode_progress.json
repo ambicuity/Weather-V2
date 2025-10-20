@@ -1,11 +1,11 @@
 {
-  "total_solved": 207,
-  "easy_solved": 94,
+  "total_solved": 208,
+  "easy_solved": 95,
   "medium_solved": 77,
   "hard_solved": 36,
-  "current_streak": 5,
+  "current_streak": 6,
   "max_streak": 23,
-  "last_solved": "2025-10-19",
+  "last_solved": "2025-10-20",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Greedy Algorithm",
+      "difficulty": "Easy",
+      "date": "2025-10-20"
+    },
     {
       "name": "Quick Sort",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Backtracking",
       "difficulty": "Easy",
       "date": "2025-10-15"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Hard",
-      "date": "2025-10-14"
     }
   ]
 }
