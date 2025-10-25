@@ -1,11 +1,11 @@
 {
-  "total_solved": 211,
-  "easy_solved": 95,
+  "total_solved": 212,
+  "easy_solved": 96,
   "medium_solved": 78,
   "hard_solved": 38,
-  "current_streak": 9,
+  "current_streak": 10,
   "max_streak": 23,
-  "last_solved": "2025-10-24",
+  "last_solved": "2025-10-25",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Easy",
+      "date": "2025-10-25"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Easy",
       "date": "2025-10-20"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Hard",
-      "date": "2025-10-19"
     }
   ]
 }
