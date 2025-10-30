@@ -1,11 +1,11 @@
 {
-  "total_solved": 216,
+  "total_solved": 217,
   "easy_solved": 99,
   "medium_solved": 78,
-  "hard_solved": 39,
-  "current_streak": 14,
+  "hard_solved": 40,
+  "current_streak": 15,
   "max_streak": 23,
-  "last_solved": "2025-10-29",
+  "last_solved": "2025-10-30",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Two Pointers",
+      "difficulty": "Hard",
+      "date": "2025-10-30"
+    },
     {
       "name": "Binary Search",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Binary Search",
       "difficulty": "Easy",
       "date": "2025-10-26"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Easy",
-      "date": "2025-10-25"
     }
   ]
 }
