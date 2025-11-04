@@ -1,11 +1,11 @@
 {
-  "total_solved": 220,
+  "total_solved": 221,
   "easy_solved": 99,
-  "medium_solved": 78,
+  "medium_solved": 79,
   "hard_solved": 43,
-  "current_streak": 18,
+  "current_streak": 19,
   "max_streak": 23,
-  "last_solved": "2025-11-03",
+  "last_solved": "2025-11-04",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Medium",
+      "date": "2025-11-04"
+    },
     {
       "name": "Dijkstra's Algorithm",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Hard",
       "date": "2025-10-30"
-    },
-    {
-      "name": "Binary Search",
-      "difficulty": "Easy",
-      "date": "2025-10-29"
     }
   ]
 }
