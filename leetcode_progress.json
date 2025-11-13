@@ -1,11 +1,11 @@
 {
-  "total_solved": 224,
+  "total_solved": 225,
   "easy_solved": 99,
-  "medium_solved": 80,
+  "medium_solved": 81,
   "hard_solved": 45,
-  "current_streak": 0,
+  "current_streak": 1,
   "max_streak": 23,
-  "last_solved": "2025-11-12",
+  "last_solved": "2025-11-13",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Medium",
+      "date": "2025-11-13"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Merge Sort",
       "difficulty": "Medium",
       "date": "2025-11-04"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Hard",
-      "date": "2025-11-03"
     }
   ]
 }
