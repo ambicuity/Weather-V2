@@ -1,11 +1,11 @@
 {
-  "total_solved": 230,
+  "total_solved": 231,
   "easy_solved": 100,
   "medium_solved": 83,
-  "hard_solved": 47,
-  "current_streak": 6,
+  "hard_solved": 48,
+  "current_streak": 7,
   "max_streak": 23,
-  "last_solved": "2025-11-21",
+  "last_solved": "2025-11-22",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Hard",
+      "date": "2025-11-22"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "DFS Traversal",
       "difficulty": "Hard",
       "date": "2025-11-15"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Medium",
-      "date": "2025-11-14"
     }
   ]
 }
