@@ -1,11 +1,11 @@
 {
-  "total_solved": 234,
+  "total_solved": 235,
   "easy_solved": 101,
-  "medium_solved": 85,
+  "medium_solved": 86,
   "hard_solved": 48,
-  "current_streak": 10,
+  "current_streak": 11,
   "max_streak": 23,
-  "last_solved": "2025-11-26",
+  "last_solved": "2025-11-27",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2025-11-27"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "DFS Traversal",
       "difficulty": "Hard",
       "date": "2025-11-22"
-    },
-    {
-      "name": "Two Pointers",
-      "difficulty": "Easy",
-      "date": "2025-11-19"
     }
   ]
 }
