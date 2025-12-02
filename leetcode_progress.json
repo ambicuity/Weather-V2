@@ -1,11 +1,11 @@
 {
-  "total_solved": 237,
+  "total_solved": 238,
   "easy_solved": 102,
-  "medium_solved": 86,
+  "medium_solved": 87,
   "hard_solved": 49,
-  "current_streak": 0,
+  "current_streak": 1,
   "max_streak": 23,
-  "last_solved": "2025-12-01",
+  "last_solved": "2025-12-02",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Medium",
+      "date": "2025-12-02"
+    },
     {
       "name": "DFS Traversal",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Backtracking",
       "difficulty": "Medium",
       "date": "2025-11-26"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Easy",
-      "date": "2025-11-25"
     }
   ]
 }
