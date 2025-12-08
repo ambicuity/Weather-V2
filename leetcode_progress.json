@@ -1,11 +1,11 @@
 {
-  "total_solved": 240,
+  "total_solved": 241,
   "easy_solved": 103,
-  "medium_solved": 88,
+  "medium_solved": 89,
   "hard_solved": 49,
-  "current_streak": 1,
+  "current_streak": 2,
   "max_streak": 23,
-  "last_solved": "2025-12-07",
+  "last_solved": "2025-12-08",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2025-12-08"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "DFS Traversal",
       "difficulty": "Easy",
       "date": "2025-11-30"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Hard",
-      "date": "2025-11-28"
     }
   ]
 }
