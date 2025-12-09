@@ -1,11 +1,11 @@
 {
-  "total_solved": 241,
+  "total_solved": 242,
   "easy_solved": 103,
-  "medium_solved": 89,
+  "medium_solved": 90,
   "hard_solved": 49,
-  "current_streak": 2,
+  "current_streak": 3,
   "max_streak": 23,
-  "last_solved": "2025-12-08",
+  "last_solved": "2025-12-09",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Medium",
+      "date": "2025-12-09"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Medium",
       "date": "2025-12-02"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Easy",
-      "date": "2025-11-30"
     }
   ]
 }
