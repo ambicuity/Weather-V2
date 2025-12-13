@@ -10,9 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+"Talk is cheap. Show me the code." - Linus Torvalds
 
 <!-- QUOTES-END -->
 
@@ -20,10 +20,10 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-1837-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-1838-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2025-12-12 22:26:18 UTC*
+*Last updated: 2025-12-13 01:59:24 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +31,10 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2023%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2024%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,368 days!**
+**🌟 I'm 25 years old and have been alive for 9,369 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +53,29 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-245-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-6%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-246-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-7%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 105 | 42.9% |
-| 🟡 Medium | 90 | 36.7% |
-| 🔴 Hard | 50 | 20.4% |
+| 🟢 Easy | 105 | 42.7% |
+| 🟡 Medium | 91 | 37.0% |
+| 🔴 Hard | 50 | 20.3% |
 
 ### 🏆 Statistics
-- **Current Streak:** 6 days 🔥
+- **Current Streak:** 7 days 🔥
 - **Max Streak:** 23 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Binary Search** - Medium (2025-12-13)
 - 🟢 **Merge Sort** - Easy (2025-12-12)
 - 🔴 **DFS Traversal** - Hard (2025-12-11)
-- 🟢 **Merge Sort** - Easy (2025-12-10)
 
-*Last updated: 2025-12-12 22:26:18 UTC*
+*Last updated: 2025-12-13 01:59:24 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>19.6°C</td>
-    <td>Clear</td>
-    <td>36%</td>
-    <td>10.1 km/h</td>
+    <td>18.8°C</td>
+    <td>Sunny</td>
+    <td>32%</td>
+    <td>6.8 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>0.6°C</td>
+    <td>0.3°C</td>
     <td>Clear</td>
-    <td>45%</td>
-    <td>21.2 km/h</td>
+    <td>49%</td>
+    <td>19.8 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>7.3°C</td>
+    <td>6.2°C</td>
     <td>Overcast</td>
     <td>93%</td>
-    <td>7.6 km/h</td>
+    <td>6.1 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>5.3°C</td>
+    <td>6.4°C</td>
     <td>Partly cloudy</td>
-    <td>56%</td>
-    <td>14.4 km/h</td>
+    <td>42%</td>
+    <td>11.5 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2025-12-12 22:26:19 UTC</i>
+    <i>Last updated: 2025-12-13 01:59:25 UTC</i>
 </p>
