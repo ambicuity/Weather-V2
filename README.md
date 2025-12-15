@@ -10,10 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+"First, solve the problem. Then, write the code." - John Johnson
 
 <!-- QUOTES-END -->
 
@@ -21,10 +20,10 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-1860-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-1861-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2025-12-14 22:24:06 UTC*
+*Last updated: 2025-12-15 02:10:08 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -32,10 +31,10 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2025%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2026%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,370 days!**
+**🌟 I'm 25 years old and have been alive for 9,371 days!**
 
 *Age updates automatically every day*
 
@@ -54,29 +53,29 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-247-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-8%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-248-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-9%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 105 | 42.5% |
-| 🟡 Medium | 92 | 37.2% |
+| 🟢 Easy | 105 | 42.3% |
+| 🟡 Medium | 93 | 37.5% |
 | 🔴 Hard | 50 | 20.2% |
 
 ### 🏆 Statistics
-- **Current Streak:** 8 days 🔥
+- **Current Streak:** 9 days 🔥
 - **Max Streak:** 23 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Binary Search** - Medium (2025-12-15)
 - 🟡 **DFS Traversal** - Medium (2025-12-14)
 - 🟡 **Binary Search** - Medium (2025-12-13)
-- 🟢 **Merge Sort** - Easy (2025-12-12)
 
-*Last updated: 2025-12-14 22:24:06 UTC*
+*Last updated: 2025-12-15 02:10:09 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -93,31 +92,31 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>19.9°C</td>
-    <td>Clear</td>
-    <td>46%</td>
-    <td>9.4 km/h</td>
+    <td>19.5°C</td>
+    <td>Sunny</td>
+    <td>41%</td>
+    <td>9.7 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>-2.8°C</td>
-    <td>Patchy light snow</td>
-    <td>81%</td>
-    <td>16.9 km/h</td>
+    <td>-4.4°C</td>
+    <td>Light snow</td>
+    <td>71%</td>
+    <td>23.0 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>11.0°C</td>
+    <td>11.1°C</td>
     <td>Overcast</td>
     <td>82%</td>
     <td>23.4 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>9.1°C</td>
+    <td>12.4°C</td>
     <td>Sunny</td>
-    <td>53%</td>
-    <td>18.0 km/h</td>
+    <td>47%</td>
+    <td>24.1 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -141,5 +140,5 @@ A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2025-12-14 22:24:08 UTC</i>
+    <i>Last updated: 2025-12-15 02:10:09 UTC</i>
 </p>
