@@ -10,9 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+"First, solve the problem. Then, write the code." - John Johnson
 
 <!-- QUOTES-END -->
 
@@ -20,10 +20,10 @@ UDP is better in the COVID era since it avoids unnecessary handshakes.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-1882-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-1883-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2025-12-16 22:24:46 UTC*
+*Last updated: 2025-12-17 02:01:46 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +31,10 @@ UDP is better in the COVID era since it avoids unnecessary handshakes.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2027%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%207%20months%2028%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,372 days!**
+**🌟 I'm 25 years old and have been alive for 9,373 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +53,29 @@ UDP is better in the COVID era since it avoids unnecessary handshakes.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-248-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-0%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-249-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-1%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 105 | 42.3% |
-| 🟡 Medium | 93 | 37.5% |
-| 🔴 Hard | 50 | 20.2% |
+| 🟢 Easy | 106 | 42.6% |
+| 🟡 Medium | 93 | 37.3% |
+| 🔴 Hard | 50 | 20.1% |
 
 ### 🏆 Statistics
-- **Current Streak:** 0 days 🔥
+- **Current Streak:** 1 days 🔥
 - **Max Streak:** 23 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟢 **Kadane's Algorithm** - Easy (2025-12-17)
 - 🟡 **Binary Search** - Medium (2025-12-15)
 - 🟡 **DFS Traversal** - Medium (2025-12-14)
-- 🟡 **Binary Search** - Medium (2025-12-13)
 
-*Last updated: 2025-12-16 22:24:46 UTC*
+*Last updated: 2025-12-17 02:01:47 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@ UDP is better in the COVID era since it avoids unnecessary handshakes.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>20.4°C</td>
-    <td>Clear</td>
-    <td>38%</td>
-    <td>10.8 km/h</td>
+    <td>19.5°C</td>
+    <td>Sunny</td>
+    <td>43%</td>
+    <td>11.2 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>-0.6°C</td>
+    <td>-1.1°C</td>
     <td>Partly cloudy</td>
     <td>51%</td>
-    <td>6.5 km/h</td>
+    <td>14.0 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>5.1°C</td>
-    <td>Partly Cloudy</td>
-    <td>87%</td>
-    <td>6.8 km/h</td>
+    <td>3.2°C</td>
+    <td>Mist</td>
+    <td>93%</td>
+    <td>4.3 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>6.0°C</td>
-    <td>Sunny</td>
-    <td>70%</td>
-    <td>5.8 km/h</td>
+    <td>9.2°C</td>
+    <td>Cloudy</td>
+    <td>50%</td>
+    <td>7.9 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@ UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2025-12-16 22:24:47 UTC</i>
+    <i>Last updated: 2025-12-17 02:01:48 UTC</i>
 </p>
