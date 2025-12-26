@@ -1,11 +1,11 @@
 {
-  "total_solved": 255,
+  "total_solved": 256,
   "easy_solved": 108,
   "medium_solved": 95,
-  "hard_solved": 52,
-  "current_streak": 7,
+  "hard_solved": 53,
+  "current_streak": 8,
   "max_streak": 23,
-  "last_solved": "2025-12-25",
+  "last_solved": "2025-12-26",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "BFS Traversal",
+      "difficulty": "Hard",
+      "date": "2025-12-26"
+    },
     {
       "name": "Dijkstra's Algorithm",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Medium",
       "date": "2025-12-20"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Easy",
-      "date": "2025-12-19"
     }
   ]
 }
