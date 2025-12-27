@@ -1,11 +1,11 @@
 {
-  "total_solved": 256,
+  "total_solved": 257,
   "easy_solved": 108,
-  "medium_solved": 95,
+  "medium_solved": 96,
   "hard_solved": 53,
-  "current_streak": 8,
+  "current_streak": 9,
   "max_streak": 23,
-  "last_solved": "2025-12-26",
+  "last_solved": "2025-12-27",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2025-12-27"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Binary Search",
       "difficulty": "Medium",
       "date": "2025-12-21"
-    },
-    {
-      "name": "Greedy Algorithm",
-      "difficulty": "Medium",
-      "date": "2025-12-20"
     }
   ]
 }
