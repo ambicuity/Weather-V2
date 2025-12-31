@@ -20,10 +20,10 @@
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-2040-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-2041-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2025-12-31 06:41:20 UTC*
+*Last updated: 2025-12-31 08:36:43 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -75,7 +75,7 @@
 - 🔴 **Sliding Window** - Hard (2025-12-29)
 - 🔴 **Dynamic Programming** - Hard (2025-12-28)
 
-*Last updated: 2025-12-31 06:41:20 UTC*
+*Last updated: 2025-12-31 08:36:43 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>25.9°C</td>
+    <td>25.8°C</td>
     <td>Sunny</td>
-    <td>46%</td>
-    <td>11.2 km/h</td>
+    <td>45%</td>
+    <td>13.3 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
     <td>-2.8°C</td>
-    <td>Partly Cloudy</td>
+    <td>Clear</td>
     <td>44%</td>
-    <td>27.4 km/h</td>
+    <td>23.0 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>0.1°C</td>
-    <td>Partly cloudy</td>
+    <td>-0.8°C</td>
+    <td>Mist</td>
     <td>93%</td>
-    <td>6.8 km/h</td>
+    <td>6.1 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>12.3°C</td>
+    <td>11.2°C</td>
     <td>Partly cloudy</td>
-    <td>38%</td>
-    <td>4.7 km/h</td>
+    <td>43%</td>
+    <td>4.3 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2025-12-31 06:41:21 UTC</i>
+    <i>Last updated: 2025-12-31 08:36:44 UTC</i>
 </p>
