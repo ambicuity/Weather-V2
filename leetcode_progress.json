@@ -1,11 +1,11 @@
 {
-  "total_solved": 261,
+  "total_solved": 262,
   "easy_solved": 109,
   "medium_solved": 97,
-  "hard_solved": 55,
-  "current_streak": 13,
+  "hard_solved": 56,
+  "current_streak": 14,
   "max_streak": 23,
-  "last_solved": "2026-01-01",
+  "last_solved": "2026-01-02",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Binary Search",
+      "difficulty": "Hard",
+      "date": "2026-01-02"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Hard",
       "date": "2025-12-28"
-    },
-    {
-      "name": "Backtracking",
-      "difficulty": "Medium",
-      "date": "2025-12-27"
     }
   ]
 }
