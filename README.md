@@ -10,11 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-How can you tell an extroverted programmer?
-
-He looks at YOUR shoes when he's talking.
+"The only way to do great work is to love what you do." - Steve Jobs
 
 <!-- QUOTES-END -->
 
@@ -22,10 +20,10 @@ He looks at YOUR shoes when he's talking.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-2136-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-2137-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-01-08 22:27:40 UTC*
+*Last updated: 2026-01-09 02:10:40 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -33,10 +31,10 @@ He looks at YOUR shoes when he's talking.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%208%20months%2020%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%208%20months%2021%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,395 days!**
+**🌟 I'm 25 years old and have been alive for 9,396 days!**
 
 *Age updates automatically every day*
 
@@ -55,29 +53,29 @@ He looks at YOUR shoes when he's talking.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-267-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-19%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-268-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-20%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 109 | 40.8% |
-| 🟡 Medium | 98 | 36.7% |
-| 🔴 Hard | 60 | 22.5% |
+| 🟢 Easy | 109 | 40.7% |
+| 🟡 Medium | 98 | 36.6% |
+| 🔴 Hard | 61 | 22.8% |
 
 ### 🏆 Statistics
-- **Current Streak:** 19 days 🔥
+- **Current Streak:** 20 days 🔥
 - **Max Streak:** 23 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🔴 **Binary Search** - Hard (2026-01-09)
 - 🟡 **Greedy Algorithm** - Medium (2026-01-08)
 - 🔴 **DFS Traversal** - Hard (2026-01-07)
-- 🔴 **Sliding Window** - Hard (2026-01-05)
 
-*Last updated: 2026-01-08 22:27:40 UTC*
+*Last updated: 2026-01-09 02:10:41 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -94,31 +92,31 @@ He looks at YOUR shoes when he's talking.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>19.9°C</td>
-    <td>Clear</td>
-    <td>49%</td>
-    <td>9.4 km/h</td>
+    <td>17.5°C</td>
+    <td>Sunny</td>
+    <td>59%</td>
+    <td>13.0 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>6.1°C</td>
+    <td>3.3°C</td>
     <td>Clear</td>
-    <td>62%</td>
-    <td>6.1 km/h</td>
+    <td>76%</td>
+    <td>5.4 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>7.3°C</td>
-    <td>Moderate rain</td>
-    <td>100%</td>
-    <td>19.1 km/h</td>
+    <td>6.1°C</td>
+    <td>Partly cloudy</td>
+    <td>93%</td>
+    <td>27.4 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>4.3°C</td>
+    <td>7.2°C</td>
     <td>Sunny</td>
-    <td>33%</td>
-    <td>15.1 km/h</td>
+    <td>26%</td>
+    <td>8.6 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -142,5 +140,5 @@ He looks at YOUR shoes when he's talking.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-01-08 22:27:42 UTC</i>
+    <i>Last updated: 2026-01-09 02:10:42 UTC</i>
 </p>
