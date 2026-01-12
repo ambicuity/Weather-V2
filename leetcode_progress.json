@@ -1,11 +1,11 @@
 {
-  "total_solved": 270,
-  "easy_solved": 110,
+  "total_solved": 271,
+  "easy_solved": 111,
   "medium_solved": 98,
   "hard_solved": 62,
-  "current_streak": 22,
+  "current_streak": 23,
   "max_streak": 23,
-  "last_solved": "2026-01-11",
+  "last_solved": "2026-01-12",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Quick Sort",
+      "difficulty": "Easy",
+      "date": "2026-01-12"
+    },
     {
       "name": "Dijkstra's Algorithm",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Medium",
       "date": "2026-01-08"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Hard",
-      "date": "2026-01-07"
     }
   ]
 }
