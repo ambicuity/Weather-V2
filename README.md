@@ -10,11 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-Why is 6 afraid of 7 in hexadecimal Canada?
-
-Because 7 8 9 A?
+"First, solve the problem. Then, write the code." - John Johnson
 
 <!-- QUOTES-END -->
 
@@ -22,10 +20,10 @@ Because 7 8 9 A?
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-2202-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-2203-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-01-14 22:29:06 UTC*
+*Last updated: 2026-01-15 02:09:13 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -33,10 +31,10 @@ Because 7 8 9 A?
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%208%20months%2026%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%208%20months%2027%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,401 days!**
+**🌟 I'm 25 years old and have been alive for 9,402 days!**
 
 *Age updates automatically every day*
 
@@ -55,29 +53,29 @@ Because 7 8 9 A?
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-272-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-24%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-273-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-25%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 111 | 40.8% |
-| 🟡 Medium | 98 | 36.0% |
-| 🔴 Hard | 63 | 23.2% |
+| 🟢 Easy | 111 | 40.7% |
+| 🟡 Medium | 99 | 36.3% |
+| 🔴 Hard | 63 | 23.1% |
 
 ### 🏆 Statistics
-- **Current Streak:** 24 days 🔥
-- **Max Streak:** 24 days 🏅
+- **Current Streak:** 25 days 🔥
+- **Max Streak:** 25 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Sliding Window** - Medium (2026-01-15)
 - 🔴 **Kadane's Algorithm** - Hard (2026-01-14)
 - 🟢 **Quick Sort** - Easy (2026-01-12)
-- 🟢 **Dijkstra's Algorithm** - Easy (2026-01-11)
 
-*Last updated: 2026-01-14 22:29:06 UTC*
+*Last updated: 2026-01-15 02:09:13 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -94,31 +92,31 @@ Because 7 8 9 A?
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>18.2°C</td>
-    <td>Clear</td>
-    <td>35%</td>
-    <td>10.1 km/h</td>
+    <td>16.4°C</td>
+    <td>Sunny</td>
+    <td>36%</td>
+    <td>11.5 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>8.9°C</td>
+    <td>6.7°C</td>
     <td>Overcast</td>
-    <td>56%</td>
-    <td>7.2 km/h</td>
+    <td>65%</td>
+    <td>8.6 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>9.1°C</td>
-    <td>Light rain</td>
-    <td>93%</td>
-    <td>12.6 km/h</td>
+    <td>8.4°C</td>
+    <td>Overcast</td>
+    <td>87%</td>
+    <td>16.2 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>5.4°C</td>
-    <td>Partly Cloudy</td>
-    <td>48%</td>
-    <td>7.2 km/h</td>
+    <td>8.2°C</td>
+    <td>Partly cloudy</td>
+    <td>34%</td>
+    <td>3.6 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -142,5 +140,5 @@ Because 7 8 9 A?
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-01-14 22:29:07 UTC</i>
+    <i>Last updated: 2026-01-15 02:09:14 UTC</i>
 </p>
