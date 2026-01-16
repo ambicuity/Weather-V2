@@ -1,11 +1,11 @@
 {
-  "total_solved": 273,
+  "total_solved": 274,
   "easy_solved": 111,
   "medium_solved": 99,
-  "hard_solved": 63,
-  "current_streak": 25,
-  "max_streak": 25,
-  "last_solved": "2026-01-15",
+  "hard_solved": 64,
+  "current_streak": 26,
+  "max_streak": 26,
+  "last_solved": "2026-01-16",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Hard",
+      "date": "2026-01-16"
+    },
     {
       "name": "Sliding Window",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Dijkstra's Algorithm",
       "difficulty": "Easy",
       "date": "2026-01-11"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Hard",
-      "date": "2026-01-10"
     }
   ]
 }
