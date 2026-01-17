@@ -1,11 +1,11 @@
 {
-  "total_solved": 274,
+  "total_solved": 275,
   "easy_solved": 111,
-  "medium_solved": 99,
+  "medium_solved": 100,
   "hard_solved": 64,
-  "current_streak": 26,
-  "max_streak": 26,
-  "last_solved": "2026-01-16",
+  "current_streak": 27,
+  "max_streak": 27,
+  "last_solved": "2026-01-17",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Sliding Window",
+      "difficulty": "Medium",
+      "date": "2026-01-17"
+    },
     {
       "name": "Merge Sort",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Quick Sort",
       "difficulty": "Easy",
       "date": "2026-01-12"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Easy",
-      "date": "2026-01-11"
     }
   ]
 }
