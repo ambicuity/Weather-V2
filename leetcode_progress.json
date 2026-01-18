@@ -1,11 +1,11 @@
 {
-  "total_solved": 275,
-  "easy_solved": 111,
+  "total_solved": 276,
+  "easy_solved": 112,
   "medium_solved": 100,
   "hard_solved": 64,
-  "current_streak": 27,
-  "max_streak": 27,
-  "last_solved": "2026-01-17",
+  "current_streak": 28,
+  "max_streak": 28,
+  "last_solved": "2026-01-18",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Two Pointers",
+      "difficulty": "Easy",
+      "date": "2026-01-18"
+    },
     {
       "name": "Sliding Window",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Kadane's Algorithm",
       "difficulty": "Hard",
       "date": "2026-01-14"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Easy",
-      "date": "2026-01-12"
     }
   ]
 }
