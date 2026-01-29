@@ -1,11 +1,11 @@
 {
-  "total_solved": 282,
-  "easy_solved": 115,
+  "total_solved": 283,
+  "easy_solved": 116,
   "medium_solved": 102,
   "hard_solved": 65,
-  "current_streak": 6,
+  "current_streak": 7,
   "max_streak": 28,
-  "last_solved": "2026-01-28",
+  "last_solved": "2026-01-29",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Easy",
+      "date": "2026-01-29"
+    },
     {
       "name": "Dynamic Programming",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "BFS Traversal",
       "difficulty": "Easy",
       "date": "2026-01-23"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Easy",
-      "date": "2026-01-22"
     }
   ]
 }
