@@ -1,11 +1,11 @@
 {
-  "total_solved": 284,
+  "total_solved": 285,
   "easy_solved": 116,
   "medium_solved": 102,
-  "hard_solved": 66,
-  "current_streak": 8,
+  "hard_solved": 67,
+  "current_streak": 9,
   "max_streak": 28,
-  "last_solved": "2026-01-30",
+  "last_solved": "2026-01-31",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Binary Search",
+      "difficulty": "Hard",
+      "date": "2026-01-31"
+    },
     {
       "name": "Binary Search",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Binary Search",
       "difficulty": "Medium",
       "date": "2026-01-26"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Medium",
-      "date": "2026-01-24"
     }
   ]
 }
