@@ -1,11 +1,11 @@
 {
-  "total_solved": 290,
+  "total_solved": 291,
   "easy_solved": 118,
   "medium_solved": 103,
-  "hard_solved": 69,
-  "current_streak": 2,
+  "hard_solved": 70,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-02-07",
+  "last_solved": "2026-02-08",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Hard",
+      "date": "2026-02-08"
+    },
     {
       "name": "Binary Search",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Easy",
       "date": "2026-02-02"
-    },
-    {
-      "name": "Dynamic Programming",
-      "difficulty": "Easy",
-      "date": "2026-02-01"
     }
   ]
 }
