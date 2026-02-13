@@ -10,9 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+"Talk is cheap. Show me the code." - Linus Torvalds
 
 <!-- QUOTES-END -->
 
@@ -20,10 +20,10 @@ I have a joke about Stack Overflow, but you would say it's a duplicate.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-2516-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-2517-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-02-12 22:37:54 UTC*
+*Last updated: 2026-02-13 02:49:46 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +31,10 @@ I have a joke about Stack Overflow, but you would say it's a duplicate.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%209%20months%2024%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%209%20months%2025%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,430 days!**
+**🌟 I'm 25 years old and have been alive for 9,431 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +53,29 @@ I have a joke about Stack Overflow, but you would say it's a duplicate.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-293-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-0%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-294-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-1%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 118 | 40.3% |
-| 🟡 Medium | 105 | 35.8% |
-| 🔴 Hard | 70 | 23.9% |
+| 🟢 Easy | 118 | 40.1% |
+| 🟡 Medium | 106 | 36.1% |
+| 🔴 Hard | 70 | 23.8% |
 
 ### 🏆 Statistics
-- **Current Streak:** 0 days 🔥
+- **Current Streak:** 1 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Quick Sort** - Medium (2026-02-13)
 - 🟡 **Kadane's Algorithm** - Medium (2026-02-10)
 - 🟡 **Dijkstra's Algorithm** - Medium (2026-02-09)
-- 🔴 **Merge Sort** - Hard (2026-02-08)
 
-*Last updated: 2026-02-12 22:37:54 UTC*
+*Last updated: 2026-02-13 02:49:47 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@ I have a joke about Stack Overflow, but you would say it's a duplicate.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>22.6°C</td>
-    <td>Clear</td>
-    <td>53%</td>
-    <td>3.6 km/h</td>
+    <td>24.2°C</td>
+    <td>Sunny</td>
+    <td>45%</td>
+    <td>5.0 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>1.1°C</td>
-    <td>Sunny</td>
-    <td>47%</td>
-    <td>13.0 km/h</td>
+    <td>-3.3°C</td>
+    <td>Clear</td>
+    <td>57%</td>
+    <td>12.2 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>7.0°C</td>
-    <td>Light rain</td>
+    <td>6.0°C</td>
+    <td>Cloudy</td>
     <td>93%</td>
-    <td>6.8 km/h</td>
+    <td>6.1 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>6.0°C</td>
+    <td>7.4°C</td>
     <td>Partly cloudy</td>
-    <td>56%</td>
-    <td>12.2 km/h</td>
+    <td>45%</td>
+    <td>10.1 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@ I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-02-12 22:37:55 UTC</i>
+    <i>Last updated: 2026-02-13 02:49:48 UTC</i>
 </p>
