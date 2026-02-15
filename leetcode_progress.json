@@ -1,11 +1,11 @@
 {
-  "total_solved": 295,
-  "easy_solved": 119,
+  "total_solved": 296,
+  "easy_solved": 120,
   "medium_solved": 106,
   "hard_solved": 70,
-  "current_streak": 2,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-02-14",
+  "last_solved": "2026-02-15",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Easy",
+      "date": "2026-02-15"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Dijkstra's Algorithm",
       "difficulty": "Medium",
       "date": "2026-02-09"
-    },
-    {
-      "name": "Merge Sort",
-      "difficulty": "Hard",
-      "date": "2026-02-08"
     }
   ]
 }
