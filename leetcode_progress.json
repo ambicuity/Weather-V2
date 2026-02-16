@@ -1,11 +1,11 @@
 {
-  "total_solved": 296,
+  "total_solved": 297,
   "easy_solved": 120,
-  "medium_solved": 106,
+  "medium_solved": 107,
   "hard_solved": 70,
-  "current_streak": 3,
+  "current_streak": 4,
   "max_streak": 28,
-  "last_solved": "2026-02-15",
+  "last_solved": "2026-02-16",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Medium",
+      "date": "2026-02-16"
+    },
     {
       "name": "Merge Sort",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Kadane's Algorithm",
       "difficulty": "Medium",
       "date": "2026-02-10"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Medium",
-      "date": "2026-02-09"
     }
   ]
 }
