@@ -1,11 +1,11 @@
 {
-  "total_solved": 299,
-  "easy_solved": 120,
+  "total_solved": 300,
+  "easy_solved": 121,
   "medium_solved": 107,
   "hard_solved": 72,
-  "current_streak": 6,
+  "current_streak": 7,
   "max_streak": 28,
-  "last_solved": "2026-02-20",
+  "last_solved": "2026-02-21",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Easy",
+      "date": "2026-02-21"
+    },
     {
       "name": "Greedy Algorithm",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Merge Sort",
       "difficulty": "Easy",
       "date": "2026-02-15"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Easy",
-      "date": "2026-02-14"
     }
   ]
 }
