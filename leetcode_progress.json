@@ -1,11 +1,11 @@
 {
-  "total_solved": 315,
+  "total_solved": 316,
   "easy_solved": 125,
-  "medium_solved": 115,
+  "medium_solved": 116,
   "hard_solved": 75,
-  "current_streak": 2,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-03-12",
+  "last_solved": "2026-03-13",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Medium",
+      "date": "2026-03-13"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "BFS Traversal",
       "difficulty": "Easy",
       "date": "2026-03-08"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Medium",
-      "date": "2026-03-07"
     }
   ]
 }
