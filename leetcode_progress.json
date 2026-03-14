@@ -1,11 +1,11 @@
 {
-  "total_solved": 316,
+  "total_solved": 317,
   "easy_solved": 125,
-  "medium_solved": 116,
+  "medium_solved": 117,
   "hard_solved": 75,
-  "current_streak": 3,
+  "current_streak": 4,
   "max_streak": 28,
-  "last_solved": "2026-03-13",
+  "last_solved": "2026-03-14",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Kadane's Algorithm",
+      "difficulty": "Medium",
+      "date": "2026-03-14"
+    },
     {
       "name": "DFS Traversal",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Medium",
       "date": "2026-03-09"
-    },
-    {
-      "name": "BFS Traversal",
-      "difficulty": "Easy",
-      "date": "2026-03-08"
     }
   ]
 }
