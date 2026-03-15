@@ -1,11 +1,11 @@
 {
-  "total_solved": 317,
+  "total_solved": 318,
   "easy_solved": 125,
   "medium_solved": 117,
-  "hard_solved": 75,
-  "current_streak": 4,
+  "hard_solved": 76,
+  "current_streak": 5,
   "max_streak": 28,
-  "last_solved": "2026-03-14",
+  "last_solved": "2026-03-15",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "BFS Traversal",
+      "difficulty": "Hard",
+      "date": "2026-03-15"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Medium",
       "date": "2026-03-11"
-    },
-    {
-      "name": "Dynamic Programming",
-      "difficulty": "Medium",
-      "date": "2026-03-09"
     }
   ]
 }
