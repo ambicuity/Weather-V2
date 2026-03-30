@@ -1,11 +1,11 @@
 {
-  "total_solved": 330,
+  "total_solved": 331,
   "easy_solved": 128,
   "medium_solved": 123,
-  "hard_solved": 79,
-  "current_streak": 17,
+  "hard_solved": 80,
+  "current_streak": 18,
   "max_streak": 28,
-  "last_solved": "2026-03-29",
+  "last_solved": "2026-03-30",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Hard",
+      "date": "2026-03-30"
+    },
     {
       "name": "Sliding Window",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Binary Search",
       "difficulty": "Medium",
       "date": "2026-03-24"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Hard",
-      "date": "2026-03-23"
     }
   ]
 }
