@@ -10,11 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-Why are Assembly programmers always soaking wet?
-
-They work below C-level.
+"Talk is cheap. Show me the code." - Linus Torvalds
 
 <!-- QUOTES-END -->
 
@@ -22,10 +20,10 @@ They work below C-level.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3074-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3075-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-04-04 22:37:08 UTC*
+*Last updated: 2026-04-05 03:20:25 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -33,10 +31,10 @@ They work below C-level.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-25%20years%2011%20months%2016%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-25%20years%2011%20months%2017%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 25 years old and have been alive for 9,481 days!**
+**🌟 I'm 25 years old and have been alive for 9,482 days!**
 
 *Age updates automatically every day*
 
@@ -55,29 +53,29 @@ They work below C-level.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-332-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-1%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-333-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-2%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 128 | 38.6% |
-| 🟡 Medium | 123 | 37.0% |
-| 🔴 Hard | 81 | 24.4% |
+| 🟢 Easy | 128 | 38.4% |
+| 🟡 Medium | 123 | 36.9% |
+| 🔴 Hard | 82 | 24.6% |
 
 ### 🏆 Statistics
-- **Current Streak:** 1 days 🔥
+- **Current Streak:** 2 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🔴 **Binary Search** - Hard (2026-04-05)
 - 🔴 **Kadane's Algorithm** - Hard (2026-04-04)
 - 🔴 **DFS Traversal** - Hard (2026-03-30)
-- 🔴 **Sliding Window** - Hard (2026-03-28)
 
-*Last updated: 2026-04-04 22:37:08 UTC*
+*Last updated: 2026-04-05 03:20:25 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -94,31 +92,31 @@ They work below C-level.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>24.8°C</td>
-    <td>Clear</td>
-    <td>62%</td>
-    <td>12.2 km/h</td>
+    <td>27.0°C</td>
+    <td>Sunny</td>
+    <td>54%</td>
+    <td>10.1 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>4.4°C</td>
+    <td>3.9°C</td>
     <td>Overcast</td>
-    <td>76%</td>
-    <td>20.9 km/h</td>
+    <td>86%</td>
+    <td>15.5 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>12.3°C</td>
-    <td>Overcast</td>
-    <td>71%</td>
-    <td>33.8 km/h</td>
+    <td>10.1°C</td>
+    <td>Partly cloudy</td>
+    <td>66%</td>
+    <td>26.3 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>16.0°C</td>
+    <td>21.2°C</td>
     <td>Partly cloudy</td>
-    <td>88%</td>
-    <td>8.6 km/h</td>
+    <td>69%</td>
+    <td>7.6 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -142,5 +140,5 @@ They work below C-level.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-04-04 22:37:08 UTC</i>
+    <i>Last updated: 2026-04-05 03:20:26 UTC</i>
 </p>
