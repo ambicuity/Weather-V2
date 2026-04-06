@@ -1,11 +1,11 @@
 {
-  "total_solved": 333,
+  "total_solved": 334,
   "easy_solved": 128,
-  "medium_solved": 123,
+  "medium_solved": 124,
   "hard_solved": 82,
-  "current_streak": 2,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-04-05",
+  "last_solved": "2026-04-06",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Kadane's Algorithm",
+      "difficulty": "Medium",
+      "date": "2026-04-06"
+    },
     {
       "name": "Binary Search",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Hard",
       "date": "2026-03-28"
-    },
-    {
-      "name": "BFS Traversal",
-      "difficulty": "Medium",
-      "date": "2026-03-26"
     }
   ]
 }
