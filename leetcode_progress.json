@@ -1,11 +1,11 @@
 {
-  "total_solved": 341,
+  "total_solved": 342,
   "easy_solved": 129,
-  "medium_solved": 127,
+  "medium_solved": 128,
   "hard_solved": 85,
-  "current_streak": 10,
+  "current_streak": 11,
   "max_streak": 28,
-  "last_solved": "2026-04-16",
+  "last_solved": "2026-04-17",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Medium",
+      "date": "2026-04-17"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Hard",
       "date": "2026-04-12"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Medium",
-      "date": "2026-04-11"
     }
   ]
 }
