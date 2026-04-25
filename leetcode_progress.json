@@ -1,11 +1,11 @@
 {
-  "total_solved": 347,
+  "total_solved": 348,
   "easy_solved": 129,
-  "medium_solved": 130,
+  "medium_solved": 131,
   "hard_solved": 88,
-  "current_streak": 1,
+  "current_streak": 2,
   "max_streak": 28,
-  "last_solved": "2026-04-24",
+  "last_solved": "2026-04-25",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Binary Search",
+      "difficulty": "Medium",
+      "date": "2026-04-25"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Hard",
       "date": "2026-04-19"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Hard",
-      "date": "2026-04-18"
     }
   ]
 }
