@@ -1,11 +1,11 @@
 {
-  "total_solved": 349,
+  "total_solved": 350,
   "easy_solved": 130,
   "medium_solved": 131,
-  "hard_solved": 88,
-  "current_streak": 3,
+  "hard_solved": 89,
+  "current_streak": 4,
   "max_streak": 28,
-  "last_solved": "2026-04-26",
+  "last_solved": "2026-04-27",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Hard",
+      "date": "2026-04-27"
+    },
     {
       "name": "Sliding Window",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Hard",
       "date": "2026-04-21"
-    },
-    {
-      "name": "Two Pointers",
-      "difficulty": "Medium",
-      "date": "2026-04-20"
     }
   ]
 }
