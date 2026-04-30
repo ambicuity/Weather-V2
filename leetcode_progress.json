@@ -1,11 +1,11 @@
 {
-  "total_solved": 352,
+  "total_solved": 353,
   "easy_solved": 131,
   "medium_solved": 132,
-  "hard_solved": 89,
-  "current_streak": 6,
+  "hard_solved": 90,
+  "current_streak": 7,
   "max_streak": 28,
-  "last_solved": "2026-04-29",
+  "last_solved": "2026-04-30",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Hard",
+      "date": "2026-04-30"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Sliding Window",
       "difficulty": "Easy",
       "date": "2026-04-26"
-    },
-    {
-      "name": "Binary Search",
-      "difficulty": "Medium",
-      "date": "2026-04-25"
     }
   ]
 }
