@@ -1,11 +1,11 @@
 {
-  "total_solved": 353,
-  "easy_solved": 131,
+  "total_solved": 354,
+  "easy_solved": 132,
   "medium_solved": 132,
   "hard_solved": 90,
-  "current_streak": 7,
+  "current_streak": 8,
   "max_streak": 28,
-  "last_solved": "2026-04-30",
+  "last_solved": "2026-05-01",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "BFS Traversal",
+      "difficulty": "Easy",
+      "date": "2026-05-01"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Dijkstra's Algorithm",
       "difficulty": "Hard",
       "date": "2026-04-27"
-    },
-    {
-      "name": "Sliding Window",
-      "difficulty": "Easy",
-      "date": "2026-04-26"
     }
   ]
 }
