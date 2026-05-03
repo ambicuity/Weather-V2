@@ -1,11 +1,11 @@
 {
-  "total_solved": 354,
+  "total_solved": 355,
   "easy_solved": 132,
-  "medium_solved": 132,
+  "medium_solved": 133,
   "hard_solved": 90,
-  "current_streak": 8,
+  "current_streak": 9,
   "max_streak": 28,
-  "last_solved": "2026-05-02",
+  "last_solved": "2026-05-03",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Medium",
+      "date": "2026-05-03"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "BFS Traversal",
       "difficulty": "Easy",
       "date": "2026-04-28"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Hard",
-      "date": "2026-04-27"
     }
   ]
 }
