@@ -1,11 +1,11 @@
 {
-  "total_solved": 359,
+  "total_solved": 360,
   "easy_solved": 134,
   "medium_solved": 135,
-  "hard_solved": 90,
-  "current_streak": 13,
+  "hard_solved": 91,
+  "current_streak": 14,
   "max_streak": 28,
-  "last_solved": "2026-05-10",
+  "last_solved": "2026-05-11",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Two Pointers",
+      "difficulty": "Hard",
+      "date": "2026-05-11"
+    },
     {
       "name": "Quick Sort",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Medium",
       "date": "2026-05-04"
-    },
-    {
-      "name": "Dijkstra's Algorithm",
-      "difficulty": "Medium",
-      "date": "2026-05-03"
     }
   ]
 }
