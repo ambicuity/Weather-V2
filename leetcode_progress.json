@@ -1,11 +1,11 @@
 {
-  "total_solved": 365,
+  "total_solved": 366,
   "easy_solved": 137,
-  "medium_solved": 135,
+  "medium_solved": 136,
   "hard_solved": 93,
-  "current_streak": 19,
+  "current_streak": 20,
   "max_streak": 28,
-  "last_solved": "2026-05-16",
+  "last_solved": "2026-05-17",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Medium",
+      "date": "2026-05-17"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Merge Sort",
       "difficulty": "Easy",
       "date": "2026-05-13"
-    },
-    {
-      "name": "Merge Sort",
-      "difficulty": "Easy",
-      "date": "2026-05-12"
     }
   ]
 }

@@ -10,12 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+"Experience is the name everyone gives to their mistakes." - Oscar Wilde
 
 <!-- QUOTES-END -->
 
@@ -23,10 +20,10 @@ The bartender asks it: "What's wrong buddy?"
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3467-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3468-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-05-16 22:54:17 UTC*
+*Last updated: 2026-05-17 04:01:21 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -34,10 +31,10 @@ The bartender asks it: "What's wrong buddy?"
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-26%20years%200%20months%2027%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-26%20years%200%20months%2028%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 26 years old and have been alive for 9,523 days!**
+**🌟 I'm 26 years old and have been alive for 9,524 days!**
 
 *Age updates automatically every day*
 
@@ -56,29 +53,29 @@ The bartender asks it: "What's wrong buddy?"
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-365-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-19%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-366-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-20%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 137 | 37.5% |
-| 🟡 Medium | 135 | 37.0% |
-| 🔴 Hard | 93 | 25.5% |
+| 🟢 Easy | 137 | 37.4% |
+| 🟡 Medium | 136 | 37.2% |
+| 🔴 Hard | 93 | 25.4% |
 
 ### 🏆 Statistics
-- **Current Streak:** 19 days 🔥
+- **Current Streak:** 20 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Dynamic Programming** - Medium (2026-05-17)
 - 🔴 **BFS Traversal** - Hard (2026-05-16)
 - 🟢 **DFS Traversal** - Easy (2026-05-15)
-- 🔴 **DFS Traversal** - Hard (2026-05-14)
 
-*Last updated: 2026-05-16 22:54:18 UTC*
+*Last updated: 2026-05-17 04:01:21 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -95,31 +92,31 @@ The bartender asks it: "What's wrong buddy?"
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>28.3°C</td>
-    <td>Clear</td>
-    <td>80%</td>
-    <td>10.4 km/h</td>
-</tr>
-<tr>
-    <td>Boston</td>
-    <td>25.6°C</td>
-    <td>Sunny</td>
-    <td>31%</td>
-    <td>19.4 km/h</td>
-</tr>
-<tr>
-    <td>London</td>
-    <td>11.0°C</td>
-    <td>Partly cloudy</td>
-    <td>94%</td>
-    <td>10.8 km/h</td>
-</tr>
-<tr>
-    <td>Tokyo</td>
-    <td>21.3°C</td>
+    <td>33.4°C</td>
     <td>Sunny</td>
     <td>56%</td>
     <td>3.6 km/h</td>
+</tr>
+<tr>
+    <td>Boston</td>
+    <td>17.8°C</td>
+    <td>Clear</td>
+    <td>54%</td>
+    <td>17.6 km/h</td>
+</tr>
+<tr>
+    <td>London</td>
+    <td>10.1°C</td>
+    <td>Overcast</td>
+    <td>94%</td>
+    <td>10.1 km/h</td>
+</tr>
+<tr>
+    <td>Tokyo</td>
+    <td>29.4°C</td>
+    <td>Sunny</td>
+    <td>29%</td>
+    <td>9.7 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -143,5 +140,5 @@ The bartender asks it: "What's wrong buddy?"
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-05-16 22:54:18 UTC</i>
+    <i>Last updated: 2026-05-17 04:01:23 UTC</i>
 </p>
