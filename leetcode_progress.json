@@ -1,11 +1,11 @@
 {
-  "total_solved": 367,
-  "easy_solved": 137,
+  "total_solved": 368,
+  "easy_solved": 138,
   "medium_solved": 137,
   "hard_solved": 93,
-  "current_streak": 21,
+  "current_streak": 22,
   "max_streak": 28,
-  "last_solved": "2026-05-18",
+  "last_solved": "2026-05-19",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Greedy Algorithm",
+      "difficulty": "Easy",
+      "date": "2026-05-19"
+    },
     {
       "name": "Kadane's Algorithm",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "DFS Traversal",
       "difficulty": "Easy",
       "date": "2026-05-15"
-    },
-    {
-      "name": "DFS Traversal",
-      "difficulty": "Hard",
-      "date": "2026-05-14"
     }
   ]
 }
