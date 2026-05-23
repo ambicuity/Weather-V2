@@ -1,11 +1,11 @@
 {
-  "total_solved": 369,
+  "total_solved": 370,
   "easy_solved": 138,
-  "medium_solved": 137,
+  "medium_solved": 138,
   "hard_solved": 94,
-  "current_streak": 23,
+  "current_streak": 24,
   "max_streak": 28,
-  "last_solved": "2026-05-22",
+  "last_solved": "2026-05-23",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Two Pointers",
+      "difficulty": "Medium",
+      "date": "2026-05-23"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Medium",
       "date": "2026-05-17"
-    },
-    {
-      "name": "BFS Traversal",
-      "difficulty": "Hard",
-      "date": "2026-05-16"
     }
   ]
 }
