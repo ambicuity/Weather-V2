@@ -1,11 +1,11 @@
 {
-  "total_solved": 371,
+  "total_solved": 372,
   "easy_solved": 138,
   "medium_solved": 138,
-  "hard_solved": 95,
-  "current_streak": 0,
+  "hard_solved": 96,
+  "current_streak": 1,
   "max_streak": 28,
-  "last_solved": "2026-05-26",
+  "last_solved": "2026-05-27",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Merge Sort",
+      "difficulty": "Hard",
+      "date": "2026-05-27"
+    },
     {
       "name": "BFS Traversal",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Greedy Algorithm",
       "difficulty": "Easy",
       "date": "2026-05-19"
-    },
-    {
-      "name": "Kadane's Algorithm",
-      "difficulty": "Medium",
-      "date": "2026-05-18"
     }
   ]
 }
