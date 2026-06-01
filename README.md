@@ -12,7 +12,7 @@
 <!-- QUOTES-START -->
 ## 💭 Daily Quote
 
-"Experience is the name everyone gives to their mistakes." - Oscar Wilde
+"In order to be irreplaceable, one must always be different." - Coco Chanel
 
 <!-- QUOTES-END -->
 
@@ -20,10 +20,10 @@
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3574-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3575-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-05-31 23:07:05 UTC*
+*Last updated: 2026-06-01 04:55:54 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +31,10 @@
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2012%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2013%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 26 years old and have been alive for 9,538 days!**
+**🌟 I'm 26 years old and have been alive for 9,539 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +53,29 @@
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-374-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-0%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-375-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-1%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 140 | 37.4% |
-| 🟡 Medium | 138 | 36.9% |
-| 🔴 Hard | 96 | 25.7% |
+| 🟢 Easy | 140 | 37.3% |
+| 🟡 Medium | 139 | 37.1% |
+| 🔴 Hard | 96 | 25.6% |
 
 ### 🏆 Statistics
-- **Current Streak:** 0 days 🔥
+- **Current Streak:** 1 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Quick Sort** - Medium (2026-06-01)
 - 🟢 **Backtracking** - Easy (2026-05-30)
 - 🟢 **Quick Sort** - Easy (2026-05-28)
-- 🔴 **Merge Sort** - Hard (2026-05-27)
 
-*Last updated: 2026-05-31 23:07:05 UTC*
+*Last updated: 2026-06-01 04:55:55 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>29.3°C</td>
-    <td>Clear</td>
-    <td>70%</td>
-    <td>14.4 km/h</td>
+    <td>32.9°C</td>
+    <td>Sunny</td>
+    <td>55%</td>
+    <td>20.2 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>13.4°C</td>
-    <td>Patchy rain nearby</td>
-    <td>94%</td>
-    <td>3.6 km/h</td>
+    <td>11.1°C</td>
+    <td>Mist</td>
+    <td>96%</td>
+    <td>10.1 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>14.3°C</td>
-    <td>Clear</td>
-    <td>78%</td>
-    <td>10.8 km/h</td>
+    <td>12.4°C</td>
+    <td>Sunny</td>
+    <td>84%</td>
+    <td>8.3 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>24.9°C</td>
+    <td>29.4°C</td>
     <td>Sunny</td>
-    <td>49%</td>
-    <td>3.6 km/h</td>
+    <td>32%</td>
+    <td>21.2 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-05-31 23:07:06 UTC</i>
+    <i>Last updated: 2026-06-01 04:55:56 UTC</i>
 </p>
