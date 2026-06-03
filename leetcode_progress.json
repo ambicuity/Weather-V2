@@ -1,11 +1,11 @@
 {
-  "total_solved": 376,
+  "total_solved": 377,
   "easy_solved": 140,
   "medium_solved": 139,
-  "hard_solved": 97,
-  "current_streak": 2,
+  "hard_solved": 98,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-06-02",
+  "last_solved": "2026-06-03",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dynamic Programming",
+      "difficulty": "Hard",
+      "date": "2026-06-03"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Quick Sort",
       "difficulty": "Easy",
       "date": "2026-05-28"
-    },
-    {
-      "name": "Merge Sort",
-      "difficulty": "Hard",
-      "date": "2026-05-27"
     }
   ]
 }
