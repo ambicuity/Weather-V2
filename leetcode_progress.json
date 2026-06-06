@@ -1,11 +1,11 @@
 {
-  "total_solved": 379,
+  "total_solved": 380,
   "easy_solved": 140,
-  "medium_solved": 140,
+  "medium_solved": 141,
   "hard_solved": 99,
-  "current_streak": 5,
+  "current_streak": 6,
   "max_streak": 28,
-  "last_solved": "2026-06-05",
+  "last_solved": "2026-06-06",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Dijkstra's Algorithm",
+      "difficulty": "Medium",
+      "date": "2026-06-06"
+    },
     {
       "name": "Backtracking",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Hard",
       "date": "2026-06-02"
-    },
-    {
-      "name": "Quick Sort",
-      "difficulty": "Medium",
-      "date": "2026-06-01"
     }
   ]
 }
