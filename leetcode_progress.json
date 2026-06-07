@@ -1,11 +1,11 @@
 {
-  "total_solved": 380,
+  "total_solved": 381,
   "easy_solved": 140,
-  "medium_solved": 141,
+  "medium_solved": 142,
   "hard_solved": 99,
-  "current_streak": 6,
+  "current_streak": 7,
   "max_streak": 28,
-  "last_solved": "2026-06-06",
+  "last_solved": "2026-06-07",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "DFS Traversal",
+      "difficulty": "Medium",
+      "date": "2026-06-07"
+    },
     {
       "name": "Dijkstra's Algorithm",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "Dynamic Programming",
       "difficulty": "Hard",
       "date": "2026-06-03"
-    },
-    {
-      "name": "Two Pointers",
-      "difficulty": "Hard",
-      "date": "2026-06-02"
     }
   ]
 }
