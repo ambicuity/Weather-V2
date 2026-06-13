@@ -10,9 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+"First, solve the problem. Then, write the code." - John Johnson
 
 <!-- QUOTES-END -->
 
@@ -20,10 +20,10 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3645-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3646-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-06-12 23:23:31 UTC*
+*Last updated: 2026-06-13 04:21:48 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +31,10 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2024%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2025%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 26 years old and have been alive for 9,550 days!**
+**🌟 I'm 26 years old and have been alive for 9,551 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +53,29 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-383-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-9%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-384-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-10%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 141 | 36.8% |
-| 🟡 Medium | 142 | 37.1% |
-| 🔴 Hard | 100 | 26.1% |
+| 🟢 Easy | 141 | 36.7% |
+| 🟡 Medium | 143 | 37.2% |
+| 🔴 Hard | 100 | 26.0% |
 
 ### 🏆 Statistics
-- **Current Streak:** 9 days 🔥
+- **Current Streak:** 10 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Backtracking** - Medium (2026-06-13)
 - 🔴 **Greedy Algorithm** - Hard (2026-06-12)
 - 🟢 **BFS Traversal** - Easy (2026-06-08)
-- 🟡 **DFS Traversal** - Medium (2026-06-07)
 
-*Last updated: 2026-06-12 23:23:32 UTC*
+*Last updated: 2026-06-13 04:21:48 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +92,31 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>30.1°C</td>
-    <td>Patchy rain nearby</td>
-    <td>67%</td>
-    <td>19.4 km/h</td>
+    <td>32.1°C</td>
+    <td>Sunny</td>
+    <td>57%</td>
+    <td>21.2 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>25.2°C</td>
-    <td>Sunny</td>
-    <td>74%</td>
-    <td>3.6 km/h</td>
+    <td>22.8°C</td>
+    <td>Partly cloudy</td>
+    <td>79%</td>
+    <td>16.2 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>14.1°C</td>
-    <td>Clear</td>
-    <td>82%</td>
-    <td>15.8 km/h</td>
+    <td>12.3°C</td>
+    <td>Partly Cloudy</td>
+    <td>88%</td>
+    <td>14.4 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>21.3°C</td>
+    <td>27.3°C</td>
     <td>Partly cloudy</td>
-    <td>88%</td>
-    <td>7.6 km/h</td>
+    <td>54%</td>
+    <td>14.8 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +140,5 @@ Being a self-taught developer is almost the same as being a cut neck chicken bec
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-06-12 23:23:32 UTC</i>
+    <i>Last updated: 2026-06-13 04:21:49 UTC</i>
 </p>

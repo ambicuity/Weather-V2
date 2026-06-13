@@ -1,11 +1,11 @@
 {
-  "total_solved": 383,
+  "total_solved": 384,
   "easy_solved": 141,
-  "medium_solved": 142,
+  "medium_solved": 143,
   "hard_solved": 100,
-  "current_streak": 9,
+  "current_streak": 10,
   "max_streak": 28,
-  "last_solved": "2026-06-12",
+  "last_solved": "2026-06-13",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Backtracking",
+      "difficulty": "Medium",
+      "date": "2026-06-13"
+    },
     {
       "name": "Greedy Algorithm",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Dijkstra's Algorithm",
       "difficulty": "Medium",
       "date": "2026-06-06"
-    },
-    {
-      "name": "Backtracking",
-      "difficulty": "Hard",
-      "date": "2026-06-05"
     }
   ]
 }
