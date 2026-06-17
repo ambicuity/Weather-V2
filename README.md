@@ -10,11 +10,9 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 😄 Daily Programming Humor
+## 💭 Daily Quote
 
-Why do programmers prefer using the dark mode?
-
-Because light attracts bugs.
+"In order to be irreplaceable, one must always be different." - Coco Chanel
 
 <!-- QUOTES-END -->
 
@@ -22,10 +20,10 @@ Because light attracts bugs.
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3670-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3671-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-06-16 23:26:57 UTC*
+*Last updated: 2026-06-17 04:49:49 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -33,10 +31,10 @@ Because light attracts bugs.
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2028%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-26%20years%201%20months%2029%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 26 years old and have been alive for 9,554 days!**
+**🌟 I'm 26 years old and have been alive for 9,555 days!**
 
 *Age updates automatically every day*
 
@@ -55,29 +53,29 @@ Because light attracts bugs.
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-386-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-2%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-387-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-3%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 142 | 36.8% |
-| 🟡 Medium | 143 | 37.0% |
-| 🔴 Hard | 101 | 26.2% |
+| 🟢 Easy | 142 | 36.7% |
+| 🟡 Medium | 144 | 37.2% |
+| 🔴 Hard | 101 | 26.1% |
 
 ### 🏆 Statistics
-- **Current Streak:** 2 days 🔥
+- **Current Streak:** 3 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🟡 **Sliding Window** - Medium (2026-06-17)
 - 🔴 **Kadane's Algorithm** - Hard (2026-06-16)
 - 🟢 **BFS Traversal** - Easy (2026-06-15)
-- 🟡 **Backtracking** - Medium (2026-06-13)
 
-*Last updated: 2026-06-16 23:26:57 UTC*
+*Last updated: 2026-06-17 04:49:49 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -94,31 +92,31 @@ Because light attracts bugs.
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>29.1°C</td>
+    <td>32.6°C</td>
     <td>Patchy rain nearby</td>
-    <td>70%</td>
-    <td>12.2 km/h</td>
+    <td>52%</td>
+    <td>20.9 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>25.1°C</td>
-    <td>Sunny</td>
-    <td>31%</td>
-    <td>3.6 km/h</td>
+    <td>19.4°C</td>
+    <td>Clear</td>
+    <td>51%</td>
+    <td>9.7 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>18.3°C</td>
+    <td>17.2°C</td>
     <td>Overcast</td>
-    <td>77%</td>
-    <td>12.2 km/h</td>
+    <td>94%</td>
+    <td>13.3 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>24.1°C</td>
-    <td>Sunny</td>
-    <td>69%</td>
-    <td>13.0 km/h</td>
+    <td>28.1°C</td>
+    <td>Partly cloudy</td>
+    <td>51%</td>
+    <td>23.8 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -142,5 +140,5 @@ Because light attracts bugs.
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-06-16 23:26:58 UTC</i>
+    <i>Last updated: 2026-06-17 04:49:50 UTC</i>
 </p>
