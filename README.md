@@ -10,9 +10,11 @@
 <!-- HEADER-END -->
 
 <!-- QUOTES-START -->
-## 💭 Daily Quote
+## 😄 Daily Programming Humor
 
-"Innovation distinguishes between a leader and a follower." - Steve Jobs
+What is the most used language in programming?
+
+Profanity.
 
 <!-- QUOTES-END -->
 
@@ -20,10 +22,10 @@
 ## 👀 Profile Views
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Profile%20Views-3725-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-3726-blue?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views">
 </p>
 
-*Last updated: 2026-06-25 23:23:03 UTC*
+*Last updated: 2026-06-26 04:14:40 UTC*
 
 <!-- VISITOR-COUNTER-END -->
 
@@ -31,10 +33,10 @@
 ## 🎂 About Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-26%20years%202%20months%206%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
+    <img src="https://img.shields.io/badge/Age-26%20years%202%20months%207%20days-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Current Age">
 </p>
 
-**🌟 I'm 26 years old and have been alive for 9,563 days!**
+**🌟 I'm 26 years old and have been alive for 9,564 days!**
 
 *Age updates automatically every day*
 
@@ -53,29 +55,29 @@
 ## 🧩 LeetCode Progress
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Solved-391-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
-    <img src="https://img.shields.io/badge/Current%20Streak-2%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
+    <img src="https://img.shields.io/badge/Total%20Solved-392-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved">
+    <img src="https://img.shields.io/badge/Current%20Streak-3%20days-orange?style=for-the-badge&logo=fire&logoColor=white" alt="Current Streak">
 </p>
 
 ### 📊 Problem Breakdown
 
 | Difficulty | Solved | Percentage |
 |------------|--------|------------|
-| 🟢 Easy | 142 | 36.3% |
-| 🟡 Medium | 146 | 37.3% |
-| 🔴 Hard | 103 | 26.3% |
+| 🟢 Easy | 142 | 36.2% |
+| 🟡 Medium | 146 | 37.2% |
+| 🔴 Hard | 104 | 26.5% |
 
 ### 🏆 Statistics
-- **Current Streak:** 2 days 🔥
+- **Current Streak:** 3 days 🔥
 - **Max Streak:** 28 days 🏅
 - **Favorite Topics:** Array, String, Dynamic Programming, Tree
 
 ### 📝 Recent Problems
+- 🔴 **Sliding Window** - Hard (2026-06-26)
 - 🔴 **Two Pointers** - Hard (2026-06-25)
 - 🔴 **Two Pointers** - Hard (2026-06-24)
-- 🟡 **Kadane's Algorithm** - Medium (2026-06-22)
 
-*Last updated: 2026-06-25 23:23:03 UTC*
+*Last updated: 2026-06-26 04:14:41 UTC*
 
 <!-- LEETCODE-END -->
 
@@ -92,31 +94,31 @@
 </tr>
 <tr>
     <td>Valsad</td>
-    <td>27.8°C</td>
-    <td>Light rain shower</td>
-    <td>81%</td>
-    <td>12.6 km/h</td>
+    <td>30.1°C</td>
+    <td>Patchy rain nearby</td>
+    <td>68%</td>
+    <td>10.8 km/h</td>
 </tr>
 <tr>
     <td>Boston</td>
-    <td>25.6°C</td>
+    <td>21.7°C</td>
     <td>Partly cloudy</td>
-    <td>42%</td>
-    <td>9.0 km/h</td>
+    <td>66%</td>
+    <td>10.4 km/h</td>
 </tr>
 <tr>
     <td>London</td>
-    <td>24.4°C</td>
-    <td>Patchy light rain in area with thunder</td>
-    <td>74%</td>
-    <td>6.1 km/h</td>
+    <td>23.3°C</td>
+    <td>Sunny</td>
+    <td>78%</td>
+    <td>5.8 km/h</td>
 </tr>
 <tr>
     <td>Tokyo</td>
-    <td>22.2°C</td>
+    <td>25.1°C</td>
     <td>Partly cloudy</td>
-    <td>94%</td>
-    <td>11.2 km/h</td>
+    <td>89%</td>
+    <td>15.1 km/h</td>
 </tr>
 </table>
 <!-- WEATHER-END -->
@@ -140,5 +142,5 @@
 
 <p align="center">
     <i>This README is automatically updated using GitHub Actions</i><br>
-    <i>Last updated: 2026-06-25 23:23:04 UTC</i>
+    <i>Last updated: 2026-06-26 04:14:42 UTC</i>
 </p>
