@@ -1,11 +1,11 @@
 {
-  "total_solved": 402,
+  "total_solved": 403,
   "easy_solved": 145,
   "medium_solved": 148,
-  "hard_solved": 109,
-  "current_streak": 2,
+  "hard_solved": 110,
+  "current_streak": 3,
   "max_streak": 28,
-  "last_solved": "2026-07-12",
+  "last_solved": "2026-07-13",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Sliding Window",
+      "difficulty": "Hard",
+      "date": "2026-07-13"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Medium",
@@ -32,11 +37,6 @@
       "name": "BFS Traversal",
       "difficulty": "Easy",
       "date": "2026-07-06"
-    },
-    {
-      "name": "Greedy Algorithm",
-      "difficulty": "Easy",
-      "date": "2026-07-03"
     }
   ]
 }
