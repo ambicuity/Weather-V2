@@ -1,11 +1,11 @@
 {
-  "total_solved": 409,
+  "total_solved": 410,
   "easy_solved": 148,
-  "medium_solved": 149,
+  "medium_solved": 150,
   "hard_solved": 112,
-  "current_streak": 1,
+  "current_streak": 2,
   "max_streak": 28,
-  "last_solved": "2026-07-23",
+  "last_solved": "2026-07-24",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Binary Search",
+      "difficulty": "Medium",
+      "date": "2026-07-24"
+    },
     {
       "name": "Two Pointers",
       "difficulty": "Easy",
@@ -32,11 +37,6 @@
       "name": "Quick Sort",
       "difficulty": "Hard",
       "date": "2026-07-17"
-    },
-    {
-      "name": "Binary Search",
-      "difficulty": "Easy",
-      "date": "2026-07-15"
     }
   ]
 }
