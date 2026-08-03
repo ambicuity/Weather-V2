@@ -1,11 +1,11 @@
 {
-  "total_solved": 416,
-  "easy_solved": 149,
+  "total_solved": 417,
+  "easy_solved": 150,
   "medium_solved": 151,
   "hard_solved": 116,
-  "current_streak": 6,
+  "current_streak": 7,
   "max_streak": 28,
-  "last_solved": "2026-08-02",
+  "last_solved": "2026-08-03",
   "favorite_topics": [
     "Array",
     "String",
@@ -13,6 +13,11 @@
     "Tree"
   ],
   "recent_problems": [
+    {
+      "name": "Sliding Window",
+      "difficulty": "Easy",
+      "date": "2026-08-03"
+    },
     {
       "name": "Merge Sort",
       "difficulty": "Hard",
@@ -32,11 +37,6 @@
       "name": "Two Pointers",
       "difficulty": "Hard",
       "date": "2026-07-29"
-    },
-    {
-      "name": "Binary Search",
-      "difficulty": "Hard",
-      "date": "2026-07-28"
     }
   ]
 }
